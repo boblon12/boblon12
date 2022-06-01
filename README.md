@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Daniil Faershtein
+### Hi there
+
+- 👋I’m Daniil Faershtein
 - 👀 I’m interested in Front-end programming
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me boblon12@mail.ru
